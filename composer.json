@@ -1,0 +1,18 @@
+{
+    "name": "zeleniy/taxi",
+    "type": "project",
+    "autoload": {
+        "psr-4": {
+            "Taxi\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Aleksandr Zelenin",
+            "email": "aleksandr.s.zelenin@gmail.com"
+        }
+    ],
+    "require-dev": {
+        "phpunit/phpunit": "^10"
+    }
+}
